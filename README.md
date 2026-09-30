@@ -18,7 +18,7 @@ I am a technology executive with 20+ years of experience connecting product stra
 
 ## Still hands-on
 
-I stay close to the technology and the work—partnering with teams on architecture, delivery, quality, and difficult technical problems. I remain hands-on when it helps unblock progress, validate direction, or turn emerging capabilities into practical products. Current technical interests include local AI, agentic workflows, multimodal document intelligence, platform architecture, accessibility, analytics, and governed automation.
+I stay close to the technology and the work partnering with teams on architecture, delivery, quality, and difficult technical problems. I remain hands-on when it helps unblock progress, validate direction, or turn emerging capabilities into practical products. Current technical interests include local AI, agentic workflows, multimodal document intelligence, platform architecture, accessibility, analytics, and governed automation.
 
 ## Building now
 
